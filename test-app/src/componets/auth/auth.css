@@ -1,0 +1,17 @@
+.auth {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.auth__form {
+    padding: 20px;
+    border: 5px solid black;
+}
+
+.auth__email,
+.auth__password {
+    display: block;
+    margin-bottom: 20px;
+}
